@@ -1,6 +1,6 @@
 ### Hi there, I'm Mar 👋
 
-Hola! Soy Mar, graduada en Relaciones Internacionales con un creciente interés en el análisis de datos y la gestión de proyectos. Mi formación académica me proporcionó una base sólida en comprensión global y diplomacia, mientras que mi pasión por los datos me ha llevado a explorar cómo pueden utilizarse para mejorar la toma de decisiones y optimizar estrategias en contextos internacionales. Estoy particularmente fascinado/a por la integración del análisis de datos en la gestión de proyectos, lo que me permite diseñar soluciones innovadoras que aborden retos complejos a escala global. Mi objetivo es utilizar estas habilidades para contribuir a proyectos que no solo cruzan fronteras geográficas, sino que también construyen puentes entre diferentes culturas y sectores. 🚀📊
+Hola! Soy Mar, graduada en Relaciones Internacionales con un creciente interés en el análisis de datos y la gestión de proyectos. Mi formación académica me proporcionó una base sólida en comprensión global y diplomacia, mientras que mi pasión por los datos me ha llevado a explorar cómo pueden utilizarse para mejorar la toma de decisiones y optimizar estrategias en contextos internacionales. Estoy particularmente fascinada por la integración del análisis de datos en la gestión de proyectos, lo que me permite diseñar soluciones innovadoras que aborden retos complejos a escala global. Mi objetivo es utilizar estas habilidades para contribuir a proyectos que no solo cruzan fronteras geográficas, sino que también construyen puentes entre diferentes culturas y sectores. 🚀📊
 
 
 
@@ -27,7 +27,7 @@ Idiomas: Español, Inglés, Francés.
 
 Colaboración y Aprendizaje 🌐
 
-Estoy entusiasmado por colaborar en proyectos emocionantes y aprender de la comunidad. ¡Siempre estoy abierto a nuevas ideas y sugerencias!
+Estoy entusiasmada por colaborar en proyectos emocionantes y aprender de la comunidad. ¡Siempre estoy abiertaas a nuevas ideas y sugerencias!
 
 
 
