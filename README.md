@@ -1,38 +1,21 @@
 ### Hi there, I'm Mar 👋
+Hello! I’m Mar, an International Relations graduate with a passion for data analytics and project management. My academic background gave me a strong foundation in global understanding and diplomacy, while my enthusiasm for data has led me to explore how it can improve decision-making and optimize strategies in both international and business contexts. I’m particularly excited about the integration of data analysis into project management, enabling innovative solutions for complex challenges on a global scale. My goal is to use these skills to contribute to projects that bridge cultures, industries, and borders. 🚀📊
 
-Hola! Soy Mar, graduada en Relaciones Internacionales con un creciente interés en el análisis de datos y la gestión de proyectos. Mi formación académica me proporcionó una base sólida en comprensión global y diplomacia, mientras que mi pasión por los datos me ha llevado a explorar cómo pueden utilizarse para mejorar la toma de decisiones y optimizar estrategias en contextos internacionales. Estoy particularmente fascinada por la integración del análisis de datos en la gestión de proyectos, lo que me permite diseñar soluciones innovadoras que aborden retos complejos a escala global. Mi objetivo es utilizar estas habilidades para contribuir a proyectos que no solo cruzan fronteras geográficas, sino que también construyen puentes entre diferentes culturas y sectores. 🚀📊
+About Me 📊:
+🎓 International Relations graduate from the University of Alicante.
+💼 Data Analysis bootcamp at Upgrade Hub.
+🚀 Constantly exploring new technologies and methodologies in the field of Data Analytics.
 
+Skills 🛠️:
+Languages: Python, SQL.
+Tools: Jupyter, Pandas, NumPy, Seaborn, Matplotlib, Plotly, Streamlit, Tableau, Excel, Power BI, Azure ML / AI.
+Methodologies: Scrum, Agile, Waterfall.
+Languages: Spanish, English, French.
 
+Collaboration and Learning 🌐
+I’m excited to collaborate on data-driven projects and learn from the community. I’m always open to new ideas and eager to contribute to meaningful work!
 
-Acerca de Mí 📊:
+Connect with me 🤝
+LinkedIn: Mar Penalva Lozano
 
-🎓 Graduado en Relaciones Internacionales por la Universidad de Alicante.
-
-💼 Actualmente estudio Data Analysis en Upgrade Hub.
-
-🚀 Constantemente explorando nuevas tecnologías y metodologías en el campo de Data Analytics.
-
-
-Habilidades 🛠️
-
-Lenguajes: Python, SQL.
-
-Herramientas: Jupyter, Pandas, NumPy, Seaborn, Matplotlib, Plotly, Tableau, Excel, Power BI.
-
-Metodologías: Scrum, Agile, Waterfall.
-
-Idiomas: Español, Inglés, Francés.
-
-
-
-Colaboración y Aprendizaje 🌐
-
-Estoy entusiasmada por colaborar en proyectos emocionantes y aprender de la comunidad. ¡Siempre estoy abiertaas a nuevas ideas y sugerencias!
-
-
-
-Conéctate conmigo 🤝
-
-LinkedIn: (https://www.linkedin.com/in/mar-penalva-lozano/)
-
-¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y que podamos conectar para discutir todo sobre Data Analytics. ¡Hagamos que los datos hablen! 📈✨
+Thanks for visiting my profile! I hope you find my projects interesting, and I’d love to connect to discuss all things Data Analytics. Let’s make data speak! 📈✨
